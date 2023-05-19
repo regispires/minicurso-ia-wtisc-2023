@@ -1,10 +1,11 @@
 
-# Minicurso Ciência de Dados na Prática usando Python
-## XII Semana Acadêmica da Computação
+# Minicurso Introdução à ciência de dados e aprendizado de máquina usando Python
+
+## WTISC 2023
 Prof. Regis Pires Magalhães
 
 Universidade Federal do Ceará - Campus de Quixadá
-
+Insight Data Science Lab
 
 ## Parte 1 - Introdução
 
@@ -29,3 +30,14 @@ Universidade Federal do Ceará - Campus de Quixadá
 
 #### [Parte 5 - Conclusão](05-conclusoes.ipynb)
 - Conclusões e Passos Futuros
+
+#### Links
+- Site: http://insightlab.ufc.br/
+- Telegram: https://t.me/insight_lab 
+- Instagram: _insightlab
+- Facebook: insightdatasciencelab  
+- LinkedIn: https://www.linkedin.com/company/insight-data-science-lab/  
+- GitHub: https://github.com/InsightLab     
+- YouTube: https://www.youtube.com/c/InsightLabDataScience  
+- Twitter: https://twitter.com/insightlab_ 
+
